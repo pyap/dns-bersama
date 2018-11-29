@@ -1,0 +1,8 @@
+$TTL 1H
+@                       SOA LOCALHOST. senator-bedfellow.domain.com (1 1h 15m 30d 2h)
+                        NS  LOCALHOST.
+
+32.75.13.119.203.rpz-ip	A 10.0.22.13
+			A 10.0.22.14
+32.76.13.119.203.rpz-ip	A 10.0.22.13
+			A 10.0.22.14
