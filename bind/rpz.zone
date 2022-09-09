@@ -1,0 +1,6 @@
+$TTL 30
+$ORIGIN blacklist.invalid.
+@	SOA blacklist.invalid. hostmaster.blacklist.invalid ( 1 12h 15m 3w 2h)
+	NS localohst.
+32.75.13.119.203.rpz-ip CNAME postpi.org.
+32.76.13.119.203.rpz-ip CNAME postpi.org.
